@@ -13,3 +13,4 @@ ON password_manager (service_name, login);
 
 SELECT * FROM password_manager;
 
+
